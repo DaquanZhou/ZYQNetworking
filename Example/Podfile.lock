@@ -1,0 +1,16 @@
+PODS:
+  - ZYQNetworking (0.1.0)
+
+DEPENDENCIES:
+  - ZYQNetworking (from `../`)
+
+EXTERNAL SOURCES:
+  ZYQNetworking:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ZYQNetworking: 1851e6f357f18afd61d4abf9e4481440d29c2626
+
+PODFILE CHECKSUM: 55892aa3ef2c897c635c29573950efa260bb554b
+
+COCOAPODS: 1.9.3

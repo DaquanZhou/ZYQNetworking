@@ -1,0 +1,6 @@
+framework module ZYQNetworking {
+  umbrella header "ZYQNetworking-umbrella.h"
+
+  export *
+  module * { export * }
+}
